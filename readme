@@ -1,0 +1,4 @@
+交易漏洞，用10.6765USDT购买cake，重复几次后有机会触发漏洞并随机获得1-3000USDT不等金额。
+漏洞地址：
+https://www.pancakeswap.cc/swap?inputCurrency=0x55d398326f99059fF775485246999027B3197955&outputCurrency=0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82 
+一个地址好像只能获得一次，希望官方尽快修复漏洞
